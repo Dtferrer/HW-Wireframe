@@ -42,7 +42,8 @@ header {
 aside {
     background: #ebebeb;
     width: 425px;
-    padding-bottom: 214px;
+    padding-top: 10px;
+    padding-bottom: 205px;
     float: left;
     margin-left: 20px;
     margin-bottom: 20px;
@@ -73,6 +74,8 @@ footer {
     padding-top: 10px;
     padding-bottom: 10px;
     margin-bottom: 10px;
+    margin-left: -10px;
+    margin-right: -10px;
 }
 
 element.style {
@@ -86,3 +89,5 @@ element.style {
     padding: 10px;
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: -10px;
+    margin-right: -10px;
